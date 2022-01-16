@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 16 10:34:15 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017e-60bc-3ac5-00000e853220 
+on database directory /Users/ryanzheng/PycharmProjects/sql_data2analysis/计算n日留存率/metastore_db with class loader sun.misc.Launcher$AppClassLoader@36aa7bc2 
+Loaded from file:/Users/ryanzheng/anaconda3/lib/python3.7/site-packages/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/Users/ryanzheng/PycharmProjects/sql_data2analysis/计算n日留存率
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
